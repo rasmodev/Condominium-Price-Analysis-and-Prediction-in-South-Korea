@@ -91,7 +91,7 @@ This project follows the **CRISP-DM** framework:
 ---
 
 ## **📸 Sample Visualizations**  
-| ![Visualization 1](https://via.placeholder.com/600x300?text=Price+Trends) | ![Visualization 2](https://via.placeholder.com/600x300?text=Geospatial+Analysis) |
+| ![Visualization 1](/Images/price_o_t.png) | ![Visualization 2](/Images/geo_dist.png) |
 |:-------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 | *Price Trends Over Time*                                                 | *Geospatial Distribution of Prices*                                       |
 
